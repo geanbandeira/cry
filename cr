@@ -11,3 +11,4 @@ Optimism
 Jupiter
 Theta Network
 Celestia
+avalanche price
