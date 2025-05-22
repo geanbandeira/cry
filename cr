@@ -12,3 +12,4 @@ Jupiter
 Theta Network
 Celestia
 avalanche price
+Shiba Inu price
